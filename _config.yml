@@ -1,0 +1,67 @@
+# Site wide configuration
+
+title: Gabriel E. Lade
+locale: en_US
+url: localhost:4000
+## To build the website locally, comment out the previous line and run
+## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
+## 'localhost:4000'.
+
+
+# Jekyll configuration
+minimal_mistakes_skin: "contrast" #"dark", "dirt", "neon", "mint", "plum" "sunrise"
+#permalink:   /:categories/:year/:month/:day/:title/
+markdown:    kramdown
+highlighter: rouge
+#paginate: 10
+#paginate_path: "_site/index/blog/page:num/"
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Gabriel E. Lade
+  avatar: gl-photo.jpg
+  bio: "Assistant Professor</br>Dept. of Economics</br>Macalester College"
+  email: glade@macalester.edu
+  twitter: gabelade
+  google_scholar: 73JmRT8AAAAJ
+  google:
+    plus: #username
+    analytics: UA-143815723-1
+    verify:
+    ad-client:
+    ad-slot:
+  orcid: 0000-0002-5747-3816
+  bing-verify:
+  github: gabe-lade
+  linkedin: gabriel-lade-69073215
+  
+include:  
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+

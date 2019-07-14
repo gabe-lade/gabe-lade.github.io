@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url:
+
+- title: Vita
+  url: /vita/
+  
+- title: Research
+  url: /research/
+
+- title: Teaching
+  url: /teaching/
+
+- title: Outreach
+  url: /outreach/
