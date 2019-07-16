@@ -2,7 +2,7 @@
 
 title: Gabriel E. Lade
 locale: en_US
-url: http://gabe-lade.github.io
+url: https://gabe-lade.github.io
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
