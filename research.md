@@ -6,7 +6,7 @@ url: /research/
 ---  
 
 
-![Pollution](/images/coal2.jpg)
+![Pollution](/images/coal2.JPG)
 
 ### Publications
 
