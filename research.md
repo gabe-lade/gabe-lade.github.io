@@ -21,7 +21,7 @@ url: /research/
 	([Paper](http://doi.org/10.1126/sciadv.aat1613))
 	([Code](https://github.com/gabe-lade/national-parks))
 	
-​"Policy Shocks and Market-Based Regulations: Evidence from the Renewable Fuel Standard." With Aaron Smith and C.-Y Cynthia Lin Lawell.
+"Policy Shocks and Market-Based Regulations: Evidence from the Renewable Fuel Standard." With Aaron Smith and C.-Y Cynthia Lin Lawell.
 	**<i>American Journal of Agricultural Economics</i>**. ​100(3): 707-731, 2018.
 	([Paper](https://doi.org/10.1093/ajae/aax097))
 	([Appendix](https://rawcdn.githack.com/gabe-lade/policy-shocks/02ce7e266f47d3c532f2ef851662830797fe72fd/policy-shocks-appendix.pdf))	
@@ -47,12 +47,12 @@ url: /research/
 
 __[Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use.](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)__
 Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  
-​
+
 __[Costs of Inefficient Regulation: Evidence from the Bakken.](https://rawcdn.githack.com/gabe-lade/MyFiles/7776443475e06d3d311fa48cc7bc35c4f453ea14/lade-rudik-ndflare.pdf)__
-Gabriel E. Lade and Ivan Rudik. <i> R&R at Journal of the Association of Environmental and Resource Economists. </i>
+Gabriel E. Lade and Ivan Rudik. <i> R&R at JAERE. </i>
 
 __[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://rawcdn.githack.com/gabe-lade/MyFiles/3fe6080cd55b0bfe5d0a8df9fa7b150306603c46/lade-lin-cost-containment.pdf)__
-Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> R&R at Environmental and Resource Economics. </i>
+Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> R&R at ERE. </i>
  
 __[Economic Effects of Environmental Crises: Evidence from Flint, Michigan.](https://rawcdn.githack.com/gabe-lade/MyFiles/324fc89b801b10bffcc2193a45422a50d047bd02/Flint_CKL.pdf)__. 
 Peter Christensen, David Keiser, and Gabriel E. Lade. 
