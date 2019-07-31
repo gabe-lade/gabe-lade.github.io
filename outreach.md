@@ -17,7 +17,7 @@ __[The Simple Economics of RINs and RFS Reform.](https://rawcdn.githack.com/gabe
 __[RINs: An Economic Perspective.](https://rawcdn.githack.com/gabe-lade/MyFiles/6a9417558ebd63684f20bea9b77590563a6b5c17/lade_rin_basics.pdf)__
 National Ethanol Conference. February 2018.
 
- ### Publications (Non-Peer Reviewed) 
+### Publications (Non-Peer Reviewed) 
 
 __[Ozone Pollution in U.S. National Parks is Nearly the Same as in Large Cities.](http://theconversation.com/ozone-pollution-in-us-national-parks-is-nearly-the-same-as-in-large-cities-100148)__
 David Keiser, Gabriel E. Lade, and Ivan Rudik). *The Conversation.* July 2018.
