@@ -5,9 +5,6 @@ tags: [research]
 url: /research/
 ---  
 
-
-![Pollution](/images/coal2.JPG)
-
 ### Publications
 
 "Fuel Subsidy Pass-Through and Market Structure: Evidence from the Renewable Fuel Standard." With James Bushnell. 
