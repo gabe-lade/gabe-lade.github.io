@@ -11,6 +11,9 @@ __[Background on Renewable Identification Numbers under the Renewable Fuel Stand
  
 ### Presentations 
 
+__[The Economics of RINs and U.S. Ethanol Demand.](https://rawcdn.githack.com/gabe-lade/MyFiles/2c9e5b7af07bcf8691886d13bbc4b0cb9d2db413/rins-and-ethanol-demand.pdf)__
+11th Annual Biofuels Science and Sustainability Tour. Fall 2019. 
+
 __[The Simple Economics of RINs and RFS Reform.](https://rawcdn.githack.com/gabe-lade/MyFiles/6a9417558ebd63684f20bea9b77590563a6b5c17/lade_rins_and_rfs_reform.pdf)__
 10th Annual Biofuels Science and Sustainability Tour. Fall 2018. 
 
