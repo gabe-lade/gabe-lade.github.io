@@ -43,7 +43,7 @@ url: /research/
 ### Working papers
 
 __[Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use.](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)__
-Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  
+Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  <i> R&R at JAERE. </i>
 
 __[Costs of Inefficient Regulation: Evidence from the Bakken.](https://rawcdn.githack.com/gabe-lade/MyFiles/7776443475e06d3d311fa48cc7bc35c4f453ea14/lade-rudik-ndflare.pdf)__
 Gabriel E. Lade and Ivan Rudik. <i> R&R at JAERE. </i>
@@ -52,7 +52,7 @@ __[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https
 Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> R&R at ERE. </i>
  
 __[Economic Effects of Environmental Crises: Evidence from Flint, Michigan.](https://rawcdn.githack.com/gabe-lade/MyFiles/324fc89b801b10bffcc2193a45422a50d047bd02/Flint_CKL.pdf)__. 
-Peter Christensen, David Keiser, and Gabriel E. Lade. 
+Peter Christensen, David Keiser, and Gabriel E. Lade. <i> R&R at AEJ:Policy. </i>
 
 
 ### Selected works in progress
