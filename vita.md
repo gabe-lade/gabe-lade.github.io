@@ -3,7 +3,7 @@ layout: page
 title: "CV"
 ---  
  
-### [<span style="color:blue">(PDF Version)</span>](https://rawcdn.githack.com/gabe-lade/MyFiles/38fa621ddd6e2bcb65343fa8b42e093295a35b12/Lade_CV.pdf)
+### [<span style="color:blue">(PDF Version)</span>](https://rawcdn.githack.com/gabe-lade/MyFiles/de51d406f7930efc20a86766b4af8abad57901b7/Lade_CV.pdf)
 
 
 <br>
