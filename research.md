@@ -46,7 +46,7 @@ __[Conservation Spillovers and Behavioral Interventions: Experimental Evidence f
 Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  <i> R&R at JAERE. </i>
 
 __[Costs of Inefficient Regulation: Evidence from the Bakken.](https://rawcdn.githack.com/gabe-lade/MyFiles/7776443475e06d3d311fa48cc7bc35c4f453ea14/lade-rudik-ndflare.pdf)__
-Gabriel E. Lade and Ivan Rudik. <i> R&R at JAERE. </i>
+Gabriel E. Lade and Ivan Rudik.
 
 __[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://rawcdn.githack.com/gabe-lade/MyFiles/3fe6080cd55b0bfe5d0a8df9fa7b150306603c46/lade-lin-cost-containment.pdf)__
 Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> R&R at ERE. </i>
