@@ -46,14 +46,16 @@ __[Conservation Spillovers and Behavioral Interventions: Experimental Evidence f
 Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  <i> R&R at JAERE. </i>
 
 __[Costs of Inefficient Regulation: Evidence from the Bakken.](https://rawcdn.githack.com/gabe-lade/MyFiles/7776443475e06d3d311fa48cc7bc35c4f453ea14/lade-rudik-ndflare.pdf)__
-Gabriel E. Lade and Ivan Rudik.
+Gabriel E. Lade and Ivan Rudik.  <i> R&R at JEEM. </i>
 
 __[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://rawcdn.githack.com/gabe-lade/MyFiles/3fe6080cd55b0bfe5d0a8df9fa7b150306603c46/lade-lin-cost-containment.pdf)__
 Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> R&R at ERE. </i>
  
-__[Economic Effects of Environmental Crises: Evidence from Flint, Michigan.](https://rawcdn.githack.com/gabe-lade/MyFiles/324fc89b801b10bffcc2193a45422a50d047bd02/Flint_CKL.pdf)__. 
+__[Economic Effects of Environmental Crises: Evidence from Flint, Michigan.](https://rawcdn.githack.com/gabe-lade/MyFiles/324fc89b801b10bffcc2193a45422a50d047bd02/Flint_CKL.pdf)__ 
 Peter Christensen, David Keiser, and Gabriel E. Lade. <i> R&R at AEJ:Policy. </i>
 
+__[Residential Water Conservation During Drought: Experimental Evidence from Three Behavioral Interventions.](https://rawcdn.githack.com/gabe-lade/MyFiles/5621b42a579b8904cbe70e5587dbb3783c10ce74/WSLongRunEffects_20191209.pdf)__
+Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  
 
 ### Selected works in progress
  
@@ -62,6 +64,3 @@ Chen-Ti Chen, John Crespi, David Keiser, and Gabriel E. Lade.
 
 __Rural Drinking Water Habits, Information Provision, And Pollution Exposure.__
 Jamie Benning, Jacqueline Comito, Ashley Garrard, David Keiser, Gabriel E. Lade, and Catherine Kling. 
-
-__Experimental Evidence on the Effects of Targeted Behavioral Treatments and their Persistence.__
-Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  
