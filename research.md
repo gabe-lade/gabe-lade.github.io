@@ -46,7 +46,7 @@ __[Conservation Spillovers and Behavioral Interventions: Experimental Evidence f
 Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  <i> R&R at JAERE. </i>
 
 __[Costs of Inefficient Regulation: Evidence from the Bakken.](https://rawcdn.githack.com/gabe-lade/MyFiles/7776443475e06d3d311fa48cc7bc35c4f453ea14/lade-rudik-ndflare.pdf)__
-Gabriel E. Lade and Ivan Rudik.  <i> R&R at JEEM. </i>
+Gabriel E. Lade and Ivan Rudik.  <i> Conditionally accepted at JEEM. </i>
 
 __[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://rawcdn.githack.com/gabe-lade/MyFiles/3fe6080cd55b0bfe5d0a8df9fa7b150306603c46/lade-lin-cost-containment.pdf)__
 Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> R&R at ERE. </i>
@@ -57,7 +57,7 @@ Peter Christensen, David Keiser, and Gabriel E. Lade. <i> R&R at AEJ:Policy. </i
 __[Residential Water Conservation During Drought: Experimental Evidence from Three Behavioral Interventions.](https://rawcdn.githack.com/gabe-lade/MyFiles/5621b42a579b8904cbe70e5587dbb3783c10ce74/WSLongRunEffects_20191209.pdf)__
 Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  
 
-__[Hurricanes and Gasoline Price Gouging.](https://rawcdn.githack.com/gabe-lade/MyFiles/017f23364f6fae6bce9890d5d9790046718bb9e8/Beatty_Lade_Shimshack_GougingMS_21Dec2019.pdf)__ Timothy K.M. Beatty, Gabriel E. Lade, and Jay Shimshack.
+__[Hurricanes and Gasoline Price Gouging.](https://rawcdn.githack.com/gabe-lade/MyFiles/017f23364f6fae6bce9890d5d9790046718bb9e8/Beatty_Lade_Shimshack_GougingMS_21Dec2019.pdf)__ Timothy K.M. Beatty, Gabriel E. Lade, and Jay Shimshack. <i> R&R at JAERE. </i>
 
 ### Selected works in progress
  
