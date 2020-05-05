@@ -7,6 +7,11 @@ url: /research/
 
 ### Publications
 
+
+"Costs of Inefficient Regulation: Evidence from the Bakken." With Ivan Rudik. 
+	**<i> Journal of Environmental Economics and Management </i>**. Forthcoming. 
+	([Ungated](https://rawcdn.githack.com/gabe-lade/MyFiles/7776443475e06d3d311fa48cc7bc35c4f453ea14/lade-rudik-ndflare.pdf))
+
 "Fuel Subsidy Pass-Through and Market Structure: Evidence from the Renewable Fuel Standard." With James Bushnell. 
 	**<i>Journal of the Association of Environmental and Resource Economists</i>**. 6(3): 563-592, 2019. 
 	([Paper](https://doi.org/10.1086/702878))
@@ -44,9 +49,6 @@ url: /research/
 
 __[Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use.](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)__
 Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  <i> R&R at JAERE. </i>
-
-__[Costs of Inefficient Regulation: Evidence from the Bakken.](https://rawcdn.githack.com/gabe-lade/MyFiles/7776443475e06d3d311fa48cc7bc35c4f453ea14/lade-rudik-ndflare.pdf)__
-Gabriel E. Lade and Ivan Rudik.  <i> Conditionally accepted at JEEM. </i>
 
 __[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://rawcdn.githack.com/gabe-lade/MyFiles/3fe6080cd55b0bfe5d0a8df9fa7b150306603c46/lade-lin-cost-containment.pdf)__
 Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> R&R at ERE. </i>
