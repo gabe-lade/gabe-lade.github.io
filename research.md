@@ -10,7 +10,7 @@ url: /research/
 
 "Costs of Inefficient Regulation: Evidence from the Bakken." With Ivan Rudik. 
 	**<i> Journal of Environmental Economics and Management </i>**. Forthcoming. 
-	([Ungated](https://rawcdn.githack.com/gabe-lade/MyFiles/7776443475e06d3d311fa48cc7bc35c4f453ea14/lade-rudik-ndflare.pdf))
+	([Ungated](https://osf.io/preprints/socarxiv/3e9xk))
 
 "Fuel Subsidy Pass-Through and Market Structure: Evidence from the Renewable Fuel Standard." With James Bushnell. 
 	**<i>Journal of the Association of Environmental and Resource Economists</i>**. 6(3): 563-592, 2019. 
