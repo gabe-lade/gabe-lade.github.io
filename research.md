@@ -48,7 +48,7 @@ url: /research/
 ### Working papers
 
 __[Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use.](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)__
-Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  <i> R&R at JAERE. </i>
+Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  <i> Conditionally accepted at JAERE. </i>
 
 __[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://rawcdn.githack.com/gabe-lade/MyFiles/3fe6080cd55b0bfe5d0a8df9fa7b150306603c46/lade-lin-cost-containment.pdf)__
 Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> R&R at ERE. </i>
