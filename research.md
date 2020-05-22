@@ -9,7 +9,8 @@ url: /research/
 
 
 "Costs of Inefficient Regulation: Evidence from the Bakken." With Ivan Rudik. 
-	**<i> Journal of Environmental Economics and Management </i>**. Forthcoming. 
+	**<i> Journal of Environmental Economics and Management</i>**. 102: 1-19, 2020. 
+	([Paper](https://doi.org/10.1016/j.jeem.2020.102336))
 	([Ungated](https://osf.io/preprints/socarxiv/3e9xk))
 
 "Fuel Subsidy Pass-Through and Market Structure: Evidence from the Renewable Fuel Standard." With James Bushnell. 
