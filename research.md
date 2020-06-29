@@ -7,7 +7,11 @@ url: /research/
 
 ### Publications
 
-
+"Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use." With Katrina Jessoe, Frank Loge and Edward Spang.
+	**<i>Journal of the Association of Environmental and Resource Economists</i>**. Forthcoming. 
+	([Paper]( ))
+	([Ungated](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf))
+	 
 "Costs of Inefficient Regulation: Evidence from the Bakken." With Ivan Rudik. 
 	**<i> Journal of Environmental Economics and Management</i>**. 102: 1-19, 2020. 
 	([Paper](https://doi.org/10.1016/j.jeem.2020.102336))
@@ -47,9 +51,6 @@ url: /research/
 	([Ungated](http://www.des.ucdavis.edu/faculty/Lin/LCFS_Review_paper.pdf))
 	
 ### Working papers
-
-__[Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use.](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)__
-Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  <i> Conditionally accepted at JAERE. </i>
 
 __[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://rawcdn.githack.com/gabe-lade/MyFiles/3fe6080cd55b0bfe5d0a8df9fa7b150306603c46/lade-lin-cost-containment.pdf)__
 Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> R&R at ERE. </i>
