@@ -59,7 +59,7 @@ __[Economic Effects of Environmental Crises: Evidence from Flint, Michigan.](htt
 Peter Christensen, David Keiser, and Gabriel E. Lade. <i> R&R at AEJ:Policy. </i>
 
 __[Residential Water Conservation During Drought: Experimental Evidence from Three Behavioral Interventions.](https://rawcdn.githack.com/gabe-lade/MyFiles/5621b42a579b8904cbe70e5587dbb3783c10ce74/WSLongRunEffects_20191209.pdf)__
-Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  
+Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  <i> R&R at JEEM. </i>
 
 __[Hurricanes and Gasoline Price Gouging.](https://rawcdn.githack.com/gabe-lade/MyFiles/017f23364f6fae6bce9890d5d9790046718bb9e8/Beatty_Lade_Shimshack_GougingMS_21Dec2019.pdf)__ Timothy K.M. Beatty, Gabriel E. Lade, and Jay Shimshack. <i> R&R at JAERE. </i>
 
