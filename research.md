@@ -7,6 +7,11 @@ url: /research/
 
 ### Publications
 
+"Hurricanes and Gasoline Price Gouging." With Timothy K.M. Beatty and Jay Shimshack. 
+	**<i>Journal of the Association of Environmental and Resource Economists</i>**. Forthcoming. 
+	([Paper]( ))
+	([Ungated](https://static1.squarespace.com/static/55e8ab64e4b0b55649c4ab64/t/5f99a05bd856080f5f28f4d5/1603903583545/Beatty_Lade_Shimshack_WP_oct2020.pdf))
+
 "Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use." With Katrina Jessoe, Frank Loge and Edward Spang.
 	**<i>Journal of the Association of Environmental and Resource Economists</i>**. Forthcoming. 
 	([Paper]( ))
@@ -53,15 +58,13 @@ url: /research/
 ### Working papers
 
 __[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://rawcdn.githack.com/gabe-lade/MyFiles/3fe6080cd55b0bfe5d0a8df9fa7b150306603c46/lade-lin-cost-containment.pdf)__
-Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> R&R at ERE. </i>
+Gabriel E. Lade and C.-Y Cynthia Lin Lawell.  <i> 2nd R&R at ERE. </i>
  
 __[Economic Effects of Environmental Crises: Evidence from Flint, Michigan.](https://rawcdn.githack.com/gabe-lade/MyFiles/324fc89b801b10bffcc2193a45422a50d047bd02/Flint_CKL.pdf)__ 
 Peter Christensen, David Keiser, and Gabriel E. Lade. <i> R&R at AEJ:Policy. </i>
 
 __[Residential Water Conservation During Drought: Experimental Evidence from Three Behavioral Interventions.](https://rawcdn.githack.com/gabe-lade/MyFiles/5621b42a579b8904cbe70e5587dbb3783c10ce74/WSLongRunEffects_20191209.pdf)__
 Katrina Jessoe, Gabriel E. Lade, Frank Loge and Edward Spang.  <i> R&R at JEEM. </i>
-
-__[Hurricanes and Gasoline Price Gouging.](https://rawcdn.githack.com/gabe-lade/MyFiles/017f23364f6fae6bce9890d5d9790046718bb9e8/Beatty_Lade_Shimshack_GougingMS_21Dec2019.pdf)__ Timothy K.M. Beatty, Gabriel E. Lade, and Jay Shimshack. <i> R&R at JAERE. </i>
 
 ### Selected works in progress
  
