@@ -8,12 +8,12 @@ url: /research/
 ### Publications
 
 "Hurricanes and Gasoline Price Gouging." With Timothy K.M. Beatty and Jay Shimshack. 
-	**<i>Journal of the Association of Environmental and Resource Economists</i>**. Forthcoming. 
+	**<i>Journal of the Association of Environmental and Resource Economists</i>**. 8(2), 2021. 
 	([Paper]( ))
 	([Ungated](https://static1.squarespace.com/static/55e8ab64e4b0b55649c4ab64/t/5f99a05bd856080f5f28f4d5/1603903583545/Beatty_Lade_Shimshack_WP_oct2020.pdf))
 
 "Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use." With Katrina Jessoe, Frank Loge and Edward Spang.
-	**<i>Journal of the Association of Environmental and Resource Economists</i>**. Forthcoming. 
+	**<i>Journal of the Association of Environmental and Resource Economists</i>**. 8(2), 2021.  
 	([Paper]( ))
 	([Ungated](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf))
 	 
