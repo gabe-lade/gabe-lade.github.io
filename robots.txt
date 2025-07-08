@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gabe-lade.github.io/al-folio/sitemap.xml
+Sitemap: https://gabe-lade.github.io//sitemap.xml
