@@ -130,5 +130,10 @@ G. Lade and C.-Y.C. Lin Lawell. 2015
 
 
 <br>
+
 ## Teaching
+
+[ECON 316: Intermediate Microeconomics](https://www.dropbox.com/scl/fi/xvu10ajgrifn8bhoomlnh/econ361-syllabus-s23.pdf?rlkey=brt0ouqf8xhl0lrxvrmcvl0ok&e=1&dl=0) (Macalester)
+[ECON 405: Industrial Organization](https://www.dropbox.com/scl/fi/xnfommj04c2f31aqqtzu7/ECON405-Syllabus-S23.pdf?rlkey=mn533p6qx4lsrgik616fcc7nw&e=1&dl=0) (Macalester)
+[ECON 642: Agricultural Economics II](https://www.dropbox.com/scl/fi/se9tlk7erjeni2drwizou/ECON-642-Syllabus-Spring-2019.pdf?rlkey=fns520q6lunbs9vk8ngvhnqdx&e=1&dl=0) (Iowa State)
  
