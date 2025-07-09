@@ -22,9 +22,13 @@ git push -->
 ## **Gabriel E. Lade**
 
 Associate Professor  
+
 C. William Swank Chair in Rural-Urban Policy
+
 Department of Agricultural, Environmental, and Development Economics
+
 College of Food, Agricultural, and Environmental Sciences
+
 The Ohio State University
 
 JAERE Editorial Council   
@@ -51,7 +55,7 @@ Lade, G., and A. Smith.
 **Accepted at Annual Review of Resource Economics.**  
 
 
-<br><br>
+<br>
 
 ## Published Papers
 
@@ -125,6 +129,6 @@ G. Lade and C.-Y.C. Lin Lawell. 2015
 
 
 
-
+<br>
 ## Teaching
  
