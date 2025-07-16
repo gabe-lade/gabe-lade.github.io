@@ -29,7 +29,9 @@ The Ohio State University
 
 JAERE Editorial Council   
 
-### [CV]()
+### [CV](https://rawcdn.githack.com/gabe-lade/MyFiles/046b13bd7f8de62c9077ba61a913fbb56c666625/lade-cv.pdf)
+
+### For information on the C. William Swank Program in Rural-Urban Policy, visit [this site.](https://aede.osu.edu/programs/c-william-swank-program-rural-urban-policy)
 
 <br><br><br>
 
