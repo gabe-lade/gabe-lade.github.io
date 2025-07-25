@@ -38,25 +38,28 @@ For information on the C. William Swank Program in Rural-Urban Policy, visit [th
 
 ## Working papers
 
-**[Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in U.S. Drinking Water.](https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view)** 
-T. Andarge, D. Ghanem, D. Keiser, and G. Lade. 
-**Conditionally accepted at AER: Insights.**  
-
-**[Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry.](https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view)** 
-Chen, C.T., J. Crespi, D. Keiser, and G. Lade
-**Accepted at AJAE.**  
-
 **[Forecasting Credit Supply Demand Balance for the Low-Carbon Fuel Standard Program.](https://haas.berkeley.edu/wp-content/uploads/WP340.pdf)** 
-Bushnell, J., G. Lade, A. Smith, J. Witcover, and W. Xiao. Energy Institute at Haas Working Paper 340.
-
-**[Biofuels: Past, Present, and Future]()** 
-Lade, G., and A. Smith.
-**Accepted at Annual Review of Resource Economics.**  
+Bushnell, J., G. Lade, A. Smith, J. Witcover, and W. Xiao. Energy Institute at Haas Working Paper 340. 
 
 
 <br>
 
 ## Published Papers
+
+**[Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in U.S. Drinking Water.](https://www.aeaweb.org/articles?id=10.1257/aeri.20240258&&from=f)** 
+Andarge, T. D. Ghanem, D. Keiser, and G. Lade. Forthcoming
+**American Economic Review: Insights.**  
+[[Ungated](https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view)]
+
+**[Biofuels: Past, Present, and Future](https://www.annualreviews.org/content/journals/10.1146/annurev-resource-011724-082950)** 
+Lade, G., and A. Smith.
+**Annual Review of Resource Economics.** a
+
+**[Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry.]()** 
+Chen, C.T., J. Crespi, D. Keiser, and G. Lade
+**American Journal of Agricultural Economics.**  
+[[Ungated]([https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view](https://ucb6de0891be792270807ef19cc7.dl.dropboxusercontent.com/cd/0/inline2/CuILy-c8LqsTWy4ugNv3qcxQipHzECIc7OyZgoH0oVf1mhX7TEoLftJ7Kki0zLB4c6TdsJu13aoqJAipScRM1HDhAN5HCk2ik1-jnDnsw4NMD6PVc5xFWiH065vN9cfTn4RKnAGBD8ZzZJ98EI8-kASQeNh1c2wDV6WQ5mZ63jbzcVjy70Enn2QbuqrkoAyDBLCwZ5rMnphi0jbONunULoN7T7zeQdHyomw8nnJ7JP7p2QQkZKNzDgSHwz9RfNx7r5oUVZXPYMT4vRjVgeOqIoTbUnXO3vfuaFMWKDw4UqbALEpluD-02gHzi65sHrzVgX1A8iZVMfJWoWcfLrFDqEIQQw3poIVN6JF_kacXXMLtSIrjhyF2FVqs_jcawb7wIvA/file#))]
+
 
 **[Geographical Indications and Welfare: Evidence from the US Wine Market.](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12499)** 
 Chandra, R., G Moschini, and G. Lade. Forthcoming.
@@ -75,7 +78,7 @@ Christensen, P., D. Keiser, and G. Lade. 2023.
 **[Residential Water Conservation During Drought: Experimental Evidence from Three Behavioral Interventions.](https://www.sciencedirect.com/science/article/pii/S0095069621000851)**
 Jessoe, K. G. Lade, F. Loge and E. Spang. 2021. 
 **Journal of Environmental Economics and Management.**  
-[Ungated](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)
+[[Ungated](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)]
 
 **[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://link.springer.com/article/10.1007/s10640-021-00558-w)**
 Lade, G. and C.-Y.C. Lin Lawell. 2021. 
