@@ -57,7 +57,7 @@ Lade, G., and A. Smith. Forthcoming.
 **[Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry.]()** 
 Chen, C.T., J. Crespi, D. Keiser, and G. Lade. Forthcoming. 
 **American Journal of Agricultural Economics.**  
-[[Ungated]([https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view](https://ucb6de0891be792270807ef19cc7.dl.dropboxusercontent.com/cd/0/inline2/CuILy-c8LqsTWy4ugNv3qcxQipHzECIc7OyZgoH0oVf1mhX7TEoLftJ7Kki0zLB4c6TdsJu13aoqJAipScRM1HDhAN5HCk2ik1-jnDnsw4NMD6PVc5xFWiH065vN9cfTn4RKnAGBD8ZzZJ98EI8-kASQeNh1c2wDV6WQ5mZ63jbzcVjy70Enn2QbuqrkoAyDBLCwZ5rMnphi0jbONunULoN7T7zeQdHyomw8nnJ7JP7p2QQkZKNzDgSHwz9RfNx7r5oUVZXPYMT4vRjVgeOqIoTbUnXO3vfuaFMWKDw4UqbALEpluD-02gHzi65sHrzVgX1A8iZVMfJWoWcfLrFDqEIQQw3poIVN6JF_kacXXMLtSIrjhyF2FVqs_jcawb7wIvA/file#))] [[Code](https://www.openicpsr.org/openicpsr/project/234047/version/V1/view()]]
+[[Ungated]([https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view](https://ucb6de0891be792270807ef19cc7.dl.dropboxusercontent.com/cd/0/inline2/CuILy-c8LqsTWy4ugNv3qcxQipHzECIc7OyZgoH0oVf1mhX7TEoLftJ7Kki0zLB4c6TdsJu13aoqJAipScRM1HDhAN5HCk2ik1-jnDnsw4NMD6PVc5xFWiH065vN9cfTn4RKnAGBD8ZzZJ98EI8-kASQeNh1c2wDV6WQ5mZ63jbzcVjy70Enn2QbuqrkoAyDBLCwZ5rMnphi0jbONunULoN7T7zeQdHyomw8nnJ7JP7p2QQkZKNzDgSHwz9RfNx7r5oUVZXPYMT4vRjVgeOqIoTbUnXO3vfuaFMWKDw4UqbALEpluD-02gHzi65sHrzVgX1A8iZVMfJWoWcfLrFDqEIQQw3poIVN6JF_kacXXMLtSIrjhyF2FVqs_jcawb7wIvA/file#))] [[Code](https://www.openicpsr.org/openicpsr/project/234047/version/V1/)]
 
 
 **[Geographical Indications and Welfare: Evidence from the US Wine Market.](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12499)** 
@@ -80,7 +80,7 @@ Christensen, P., D. Keiser, and G. Lade. 2023.
 **[Hurricanes and Gasoline Price Gouging.](https://www.journals.uchicago.edu/doi/10.1086/712419)** Beatty, T., G. Lade, and J. Shimshack. 2021. 
 **Journal of the Association of Environmental and Resource Economists.**  [[Ungated](https://static1.squarespace.com/static/55e8ab64e4b0b55649c4ab64/t/5f99a05bd856080f5f28f4d5/1603903583545/Beatty_Lade_Shimshack_WP_oct2020.pdf)] [[Code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TRN819)]
 
-**[Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use.] (https://www.journals.uchicago.edu/doi/10.1086/711025)**  Jessoe, K. G. Lade, F. Loge, and E. Spang. 2021. 
+**[Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use.](https://www.journals.uchicago.edu/doi/10.1086/711025)**  Jessoe, K. G. Lade, F. Loge, and E. Spang. 2021. 
 **Journal of the Association of Environmental and Resource Economists.** [[Ungated](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)]
 
 **[Costs of Inefficient Regulation: Evidence from the Bakken.](https://www.sciencedirect.com/science/article/abs/pii/S0095069620300590?via%3Dihub)**
