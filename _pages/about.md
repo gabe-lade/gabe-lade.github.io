@@ -47,15 +47,15 @@ Bushnell, J., G. Lade, A. Smith, J. Witcover, and W. Xiao. Energy Institute at H
 ## Published Papers
 
 **[Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in U.S. Drinking Water.](https://www.aeaweb.org/articles?id=10.1257/aeri.20240258&&from=f)** 
-Andarge, T. D. Ghanem, D. Keiser, and G. Lade. Forthcoming. 
+Andarge, T. D. Ghanem, D. Keiser, and G. Lade. 2025. 
 **American Economic Review: Insights.**  [[Ungated](https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view)]
 
 **[Biofuels: Past, Present, and Future](https://www.annualreviews.org/content/journals/10.1146/annurev-resource-011724-082950)** 
-Lade, G., and A. Smith. Forthcoming. 
+Lade, G., and A. Smith. 2025. 
 **Annual Review of Resource Economics.** 
 
 **[Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry.]()** 
-Chen, C.T., J. Crespi, D. Keiser, and G. Lade. Forthcoming. 
+Chen, C.T., J. Crespi, D. Keiser, and G. Lade. 2025. 
 **American Journal of Agricultural Economics.**  
 [[Ungated]([https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view](https://ucb6de0891be792270807ef19cc7.dl.dropboxusercontent.com/cd/0/inline2/CuILy-c8LqsTWy4ugNv3qcxQipHzECIc7OyZgoH0oVf1mhX7TEoLftJ7Kki0zLB4c6TdsJu13aoqJAipScRM1HDhAN5HCk2ik1-jnDnsw4NMD6PVc5xFWiH065vN9cfTn4RKnAGBD8ZzZJ98EI8-kASQeNh1c2wDV6WQ5mZ63jbzcVjy70Enn2QbuqrkoAyDBLCwZ5rMnphi0jbONunULoN7T7zeQdHyomw8nnJ7JP7p2QQkZKNzDgSHwz9RfNx7r5oUVZXPYMT4vRjVgeOqIoTbUnXO3vfuaFMWKDw4UqbALEpluD-02gHzi65sHrzVgX1A8iZVMfJWoWcfLrFDqEIQQw3poIVN6JF_kacXXMLtSIrjhyF2FVqs_jcawb7wIvA/file#))] [[Code](https://www.openicpsr.org/openicpsr/project/234047/version/V1/)]
 
