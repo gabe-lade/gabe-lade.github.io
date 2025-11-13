@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: lade-pic.jpg
+  image: lade-pic.jpeg
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
