@@ -45,7 +45,7 @@ Bushnell, J., G. Lade, A. Smith, J. Witcover, and W. Xiao. Energy Institute at H
 
 ## Published Papers
 
-**[Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in U.S. Drinking Water.](https://www.aeaweb.org/articles?id=10.1257/aeri.20240258&&from=f)**
+**[Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in U.S. Drinking Water.](https://www.aeaweb.org/articles?id=10.1257/aeri.20240258)**
 Andarge, T. D. Ghanem, D. Keiser, and G. Lade. 2025.
 **American Economic Review: Insights.** [[Ungated](https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view)]
 
@@ -53,14 +53,15 @@ Andarge, T. D. Ghanem, D. Keiser, and G. Lade. 2025.
 Lade, G., and A. Smith. 2025.
 **Annual Review of Resource Economics.**
 
-**[Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry.]()**
+**[Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry.](https://onlinelibrary.wiley.com/doi/10.1111/ajae.70006)**
 Chen, C.T., J. Crespi, D. Keiser, and G. Lade. 2025.
 **American Journal of Agricultural Economics.**  
-[[Ungated](<[https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view](https://ucb6de0891be792270807ef19cc7.dl.dropboxusercontent.com/cd/0/inline2/CuILy-c8LqsTWy4ugNv3qcxQipHzECIc7OyZgoH0oVf1mhX7TEoLftJ7Kki0zLB4c6TdsJu13aoqJAipScRM1HDhAN5HCk2ik1-jnDnsw4NMD6PVc5xFWiH065vN9cfTn4RKnAGBD8ZzZJ98EI8-kASQeNh1c2wDV6WQ5mZ63jbzcVjy70Enn2QbuqrkoAyDBLCwZ5rMnphi0jbONunULoN7T7zeQdHyomw8nnJ7JP7p2QQkZKNzDgSHwz9RfNx7r5oUVZXPYMT4vRjVgeOqIoTbUnXO3vfuaFMWKDw4UqbALEpluD-02gHzi65sHrzVgX1A8iZVMfJWoWcfLrFDqEIQQw3poIVN6JF_kacXXMLtSIrjhyF2FVqs_jcawb7wIvA/file#)>)] [[Code](https://www.openicpsr.org/openicpsr/project/234047/version/V1/)]
+[[Ungated](https://www.card.iastate.edu/products/publications/pdf/24wp657.pdf)] [[Code](https://www.openicpsr.org/openicpsr/project/234047/version/V1/)]
 
 **[Geographical Indications and Welfare: Evidence from the US Wine Market.](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12499)**
 Chandra, R., G Moschini, and G. Lade. 2025.
 **American Journal of Agricultural Economics.**
+[[Ungated](https://www.card.iastate.edu/products/publications/pdf/21wp628.pdf)]
 
 **[Improving Rural Drinking Water Quality Testing Programs in the United States: Evidence from a Randomized Trial in Iowa.](https://pubs.acs.org/doi/full/10.1021/acs.est.4c02835)** Lade, G., D. Keiser, J. Comito, J. Benning, and C. Kling. 2024.
 **Environmental Science and Technology.** [[Code](https://github.com/gabe-lade/rural-dw-survey)]
