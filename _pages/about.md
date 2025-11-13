@@ -1,18 +1,18 @@
 ---
 layout: about
-title: 
+title:
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: assets/img/lade-pic.jpg
   image_circular: false # crops the image to make it circular
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 <!-- bundle exec jekyll serve
@@ -21,13 +21,13 @@ git push -->
 
 ## **Gabriel E. Lade**
 
-Associate Professor    
+Associate Professor  
 C. William Swank Chair in Rural-Urban Policy  
 Department of Agricultural, Environmental, and Development Economics  
 College of Food, Agricultural, and Environmental Sciences  
-The Ohio State University  
+The Ohio State University
 
-JAERE Editorial Council   
+JAERE Editorial Council
 
 ## [CV](https://rawcdn.githack.com/gabe-lade/MyFiles/046b13bd7f8de62c9077ba61a913fbb56c666625/lade-cv.pdf)
 
@@ -38,76 +38,72 @@ For information on the C. William Swank Program in Rural-Urban Policy, visit [th
 
 ## Working papers
 
-**[Forecasting Credit Supply Demand Balance for the Low-Carbon Fuel Standard Program.](https://haas.berkeley.edu/wp-content/uploads/WP340.pdf)** 
-Bushnell, J., G. Lade, A. Smith, J. Witcover, and W. Xiao. Energy Institute at Haas Working Paper 340. 
-
+**[Forecasting Credit Supply Demand Balance for the Low-Carbon Fuel Standard Program.](https://haas.berkeley.edu/wp-content/uploads/WP340.pdf)**
+Bushnell, J., G. Lade, A. Smith, J. Witcover, and W. Xiao. Energy Institute at Haas Working Paper 340.
 
 <br>
 
 ## Published Papers
 
-**[Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in U.S. Drinking Water.](https://www.aeaweb.org/articles?id=10.1257/aeri.20240258&&from=f)** 
-Andarge, T. D. Ghanem, D. Keiser, and G. Lade. 2025. 
-**American Economic Review: Insights.**  [[Ungated](https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view)]
+**[Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in U.S. Drinking Water.](https://www.aeaweb.org/articles?id=10.1257/aeri.20240258&&from=f)**
+Andarge, T. D. Ghanem, D. Keiser, and G. Lade. 2025.
+**American Economic Review: Insights.** [[Ungated](https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view)]
 
-**[Biofuels: Past, Present, and Future](https://www.annualreviews.org/content/journals/10.1146/annurev-resource-011724-082950)** 
-Lade, G., and A. Smith. 2025. 
-**Annual Review of Resource Economics.** 
+**[Biofuels: Past, Present, and Future](https://www.annualreviews.org/content/journals/10.1146/annurev-resource-011724-082950)**
+Lade, G., and A. Smith. 2025.
+**Annual Review of Resource Economics.**
 
-**[Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry.]()** 
-Chen, C.T., J. Crespi, D. Keiser, and G. Lade. 2025. 
+**[Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry.]()**
+Chen, C.T., J. Crespi, D. Keiser, and G. Lade. 2025.
 **American Journal of Agricultural Economics.**  
-[[Ungated]([https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view](https://ucb6de0891be792270807ef19cc7.dl.dropboxusercontent.com/cd/0/inline2/CuILy-c8LqsTWy4ugNv3qcxQipHzECIc7OyZgoH0oVf1mhX7TEoLftJ7Kki0zLB4c6TdsJu13aoqJAipScRM1HDhAN5HCk2ik1-jnDnsw4NMD6PVc5xFWiH065vN9cfTn4RKnAGBD8ZzZJ98EI8-kASQeNh1c2wDV6WQ5mZ63jbzcVjy70Enn2QbuqrkoAyDBLCwZ5rMnphi0jbONunULoN7T7zeQdHyomw8nnJ7JP7p2QQkZKNzDgSHwz9RfNx7r5oUVZXPYMT4vRjVgeOqIoTbUnXO3vfuaFMWKDw4UqbALEpluD-02gHzi65sHrzVgX1A8iZVMfJWoWcfLrFDqEIQQw3poIVN6JF_kacXXMLtSIrjhyF2FVqs_jcawb7wIvA/file#))] [[Code](https://www.openicpsr.org/openicpsr/project/234047/version/V1/)]
+[[Ungated](<[https://drive.google.com/file/d/10F-ZSqxRaZsCgjJ4Qa8Ks19G30fuI2BE/view](https://ucb6de0891be792270807ef19cc7.dl.dropboxusercontent.com/cd/0/inline2/CuILy-c8LqsTWy4ugNv3qcxQipHzECIc7OyZgoH0oVf1mhX7TEoLftJ7Kki0zLB4c6TdsJu13aoqJAipScRM1HDhAN5HCk2ik1-jnDnsw4NMD6PVc5xFWiH065vN9cfTn4RKnAGBD8ZzZJ98EI8-kASQeNh1c2wDV6WQ5mZ63jbzcVjy70Enn2QbuqrkoAyDBLCwZ5rMnphi0jbONunULoN7T7zeQdHyomw8nnJ7JP7p2QQkZKNzDgSHwz9RfNx7r5oUVZXPYMT4vRjVgeOqIoTbUnXO3vfuaFMWKDw4UqbALEpluD-02gHzi65sHrzVgX1A8iZVMfJWoWcfLrFDqEIQQw3poIVN6JF_kacXXMLtSIrjhyF2FVqs_jcawb7wIvA/file#)>)] [[Code](https://www.openicpsr.org/openicpsr/project/234047/version/V1/)]
 
+**[Geographical Indications and Welfare: Evidence from the US Wine Market.](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12499)**
+Chandra, R., G Moschini, and G. Lade. 2025.
+**American Journal of Agricultural Economics.**
 
-**[Geographical Indications and Welfare: Evidence from the US Wine Market.](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12499)** 
-Chandra, R., G Moschini, and G. Lade. 2025. 
-**American Journal of Agricultural Economics.**  
-
-**[Improving Rural Drinking Water Quality Testing Programs in the United States: Evidence from a Randomized Trial in Iowa.](https://pubs.acs.org/doi/full/10.1021/acs.est.4c02835)** Lade, G., D. Keiser, J. Comito, J. Benning, and C. Kling. 2024. 
+**[Improving Rural Drinking Water Quality Testing Programs in the United States: Evidence from a Randomized Trial in Iowa.](https://pubs.acs.org/doi/full/10.1021/acs.est.4c02835)** Lade, G., D. Keiser, J. Comito, J. Benning, and C. Kling. 2024.
 **Environmental Science and Technology.** [[Code](https://github.com/gabe-lade/rural-dw-survey)]
 
 **[Economic Effects of Environmental Crises: Evidence from Flint, Michigan.](https://www.aeaweb.org/articles?id=10.1257/pol.20190391)**
-Christensen, P., D. Keiser, and G. Lade. 2023. 
+Christensen, P., D. Keiser, and G. Lade. 2023.
 **American Economic Journal: Economic Policy.** [[Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420526)]
 
-**[Residential Water Conservation During Drought: Experimental Evidence from Three Behavioral Interventions.](https://www.sciencedirect.com/science/article/pii/S0095069621000851)** Jessoe, K. G. Lade, F. Loge and E. Spang. 2021. 
-**Journal of Environmental Economics and Management.**  [[Ungated](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)]
+**[Residential Water Conservation During Drought: Experimental Evidence from Three Behavioral Interventions.](https://www.sciencedirect.com/science/article/pii/S0095069621000851)** Jessoe, K. G. Lade, F. Loge and E. Spang. 2021.
+**Journal of Environmental Economics and Management.** [[Ungated](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)]
 
-**[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://link.springer.com/article/10.1007/s10640-021-00558-w)** Lade, G. and C.-Y.C. Lin Lawell. 2021. 
+**[The Design of Renewable Fuel Policies and Cost Containment Mechanisms.](https://link.springer.com/article/10.1007/s10640-021-00558-w)** Lade, G. and C.-Y.C. Lin Lawell. 2021.
 **Environmental and Resource Economics.** [[Ungated](http://clinlawell.dyson.cornell.edu/mandate_cost_containment_paper.pdf)]
 
-**[Hurricanes and Gasoline Price Gouging.](https://www.journals.uchicago.edu/doi/10.1086/712419)** Beatty, T., G. Lade, and J. Shimshack. 2021. 
-**Journal of the Association of Environmental and Resource Economists.**  [[Ungated](https://static1.squarespace.com/static/55e8ab64e4b0b55649c4ab64/t/5f99a05bd856080f5f28f4d5/1603903583545/Beatty_Lade_Shimshack_WP_oct2020.pdf)] [[Code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TRN819)]
+**[Hurricanes and Gasoline Price Gouging.](https://www.journals.uchicago.edu/doi/10.1086/712419)** Beatty, T., G. Lade, and J. Shimshack. 2021.
+**Journal of the Association of Environmental and Resource Economists.** [[Ungated](https://static1.squarespace.com/static/55e8ab64e4b0b55649c4ab64/t/5f99a05bd856080f5f28f4d5/1603903583545/Beatty_Lade_Shimshack_WP_oct2020.pdf)] [[Code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TRN819)]
 
-**[Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use.](https://www.journals.uchicago.edu/doi/10.1086/711025)**  Jessoe, K. G. Lade, F. Loge, and E. Spang. 2021. 
+**[Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use.](https://www.journals.uchicago.edu/doi/10.1086/711025)** Jessoe, K. G. Lade, F. Loge, and E. Spang. 2021.
 **Journal of the Association of Environmental and Resource Economists.** [[Ungated](https://rawcdn.githack.com/gabe-lade/MyFiles/acb76ec446978f2cec4e8a87938627d124dcca1e/klls-spillovers.pdf)]
 
 **[Costs of Inefficient Regulation: Evidence from the Bakken.](https://www.sciencedirect.com/science/article/abs/pii/S0095069620300590?via%3Dihub)**
 Lade, G. and I. Rudik. 2020.  
 **Journal of Environmental Economics and Management.** [[Ungated](https://osf.io/preprints/socarxiv/3e9xk_v1)]
 
-**[Fuel Subsidy Pass-Through and Market Structure: Evidence from the Renewable Fuel Standard.](https://www.journals.uchicago.edu/doi/10.1086/702878)**  Lade, G. and J. Bushnell. 2019. 
+**[Fuel Subsidy Pass-Through and Market Structure: Evidence from the Renewable Fuel Standard.](https://www.journals.uchicago.edu/doi/10.1086/702878)** Lade, G. and J. Bushnell. 2019.
 **Journal of the Association of Environmental and Resource Economists.** [[Ungated](https://rawcdn.githack.com/gabe-lade/e85-pass-through/6661520e247c678a232f2fbbdc9da126454885d4/lade_bushnell_wp.pdf)] [[Code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AX4LOY)]
 
 **[Air Pollution and Visitation at U.S. National Parks.](https://www.science.org/doi/10.1126/sciadv.aat1613)**
-Keiser, D., G. Lade, and I. Rudik. 2018. 
+Keiser, D., G. Lade, and I. Rudik. 2018.
 **Science Advances.** ​[[Code](https://github.com/gabe-lade/national-parks)]
 
-**[Policy Shocks and Market-Based Regulations: Evidence from the Renewable Fuel Standard.](https://onlinelibrary.wiley.com/doi/abs/10.1093/ajae/aax097)** G. Lade, C.-Y.C. Lin Lawell, and A. Smith. 2018. 
-**American Journal of Agricultural Economics.**  [[Ungated](https://rawcdn.githack.com/gabe-lade/policy-shocks/02ce7e266f47d3c532f2ef851662830797fe72fd/policy-shocks-wp.pdf)] [Code](https://github.com/gabe-lade/policy-shocks)]
+**[Policy Shocks and Market-Based Regulations: Evidence from the Renewable Fuel Standard.](https://onlinelibrary.wiley.com/doi/abs/10.1093/ajae/aax097)** G. Lade, C.-Y.C. Lin Lawell, and A. Smith. 2018.
+**American Journal of Agricultural Economics.** [[Ungated](https://rawcdn.githack.com/gabe-lade/policy-shocks/02ce7e266f47d3c532f2ef851662830797fe72fd/policy-shocks-wp.pdf)] [Code](https://github.com/gabe-lade/policy-shocks)]
 
 **[Designing Climate Policy: Lessons from the Renewable Fuel Standard and the Blend Wall.](https://onlinelibrary.wiley.com/doi/10.1093/ajae/aax092)** G. Lade, C.-Y.C. Lin Lawell, and A. Smith. 2018.  
-**American Journal of Agricultural Economics.**   [[Ungated](http://clinlawell.dyson.cornell.edu/Lade_LinLawell_Smith_climate_policy_RFS_blendwall.pdf)]
+**American Journal of Agricultural Economics.** [[Ungated](http://clinlawell.dyson.cornell.edu/Lade_LinLawell_Smith_climate_policy_RFS_blendwall.pdf)]
 
 **[A Review of Low Carbon Fuel Policies: Principles, Program Status, and Future Directions.](https://www.sciencedirect.com/science/article/abs/pii/S0301421516303901?via%3Dihub)** Yeh, S., J. Witcover, G. Lade, and D. Sperling. 2016.  
-**Energy Policy.** 
+**Energy Policy.**
 
 **[The Design and Economics of Low Carbon Fuel Standards.](https://www.sciencedirect.com/science/article/abs/pii/S0739885915000530?via%3Dihub)**
-G. Lade and C.-Y.C. Lin Lawell. 2015 
+G. Lade and C.-Y.C. Lin Lawell. 2015
 **Research in Transportation Economics.** [[Ungated](http://www.des.ucdavis.edu/faculty/Lin/LCFS_Review_paper.pdf)]
-
-
 
 <br>
 
@@ -116,4 +112,3 @@ G. Lade and C.-Y.C. Lin Lawell. 2015
 [ECON 316: Intermediate Microeconomics](https://www.dropbox.com/scl/fi/xvu10ajgrifn8bhoomlnh/econ361-syllabus-s23.pdf?rlkey=brt0ouqf8xhl0lrxvrmcvl0ok&e=1&dl=0) (Macalester)  
 [ECON 405: Industrial Organization](https://www.dropbox.com/scl/fi/xnfommj04c2f31aqqtzu7/ECON405-Syllabus-S23.pdf?rlkey=mn533p6qx4lsrgik616fcc7nw&e=1&dl=0) (Macalester)  
 [ECON 642: Agricultural Economics II](https://www.dropbox.com/scl/fi/se9tlk7erjeni2drwizou/ECON-642-Syllabus-Spring-2019.pdf?rlkey=fns520q6lunbs9vk8ngvhnqdx&e=1&dl=0) (Iowa State)
- 
