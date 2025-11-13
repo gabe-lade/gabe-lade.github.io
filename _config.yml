@@ -168,23 +168,23 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives-v2
+  # - jekyll-archives-v2  # Disabled - no posts/books
   - jekyll-email-protect
-  - jekyll-feed
-  - jekyll-get-json
+  # - jekyll-feed  # Disabled - no blog
+  # - jekyll-get-json  # Disabled - not needed
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
+  # - jekyll-jupyter-notebook  # Disabled - no notebooks
   - jekyll-link-attributes
   - jekyll-minifier
-  - jekyll-paginate-v2
+  # - jekyll-paginate-v2  # Disabled - no posts
   - jekyll-regex-replace
-  - jekyll/scholar
+  # - jekyll/scholar  # Disabled - no bibliography
   - jekyll-sitemap
-  - jekyll-tabs
+  # - jekyll-tabs  # Disabled - not used
   - jekyll-terser
-  - jekyll-toc
-  - jekyll-twitter-plugin
-  - jemoji
+  # - jekyll-toc  # Disabled - not needed
+  # - jekyll-twitter-plugin  # Disabled - not used
+  # - jemoji  # Disabled - not used
 
 # Sitemap settings
 defaults:
@@ -233,30 +233,30 @@ terser:
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
-
-  style: apa
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_link: Details
-
-  query: "@*"
-  group_by: year
-  group_order: descending
+# scholar:
+#   last_name: [Einstein]
+#   first_name: [Albert, A.]
+#
+#   style: apa
+#   locale: en
+#
+#   source: /_bibliography/
+#   bibliography: papers.bib
+#   bibliography_template: bib
+#   # Note: if you have latex math in your bibtex, the latex filter
+#   # preprocessing may conflict with MathJAX if the latter is enabled.
+#   # See https://github.com/alshedivat/al-folio/issues/357.
+#   bibtex_filters: [latex, smallcaps, superscript]
+#
+#   replace_strings: true
+#   join_strings: true
+#
+#   details_dir: bibliography
+#   details_link: Details
+#
+#   query: "@*"
+#   group_by: year
+#   group_order: descending
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
@@ -590,25 +590,24 @@ third_party_libraries:
       css: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.css"
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
-
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # it can also be an url
+#
+# jsonresume:
+#   - basics
+#   - work
+#   - education
+#   - publications
+#   - projects
+#   - volunteer
+#   - awards
+#   - certificates
+#   - skills
+#   - languages
+#   - interests
+#   - references
