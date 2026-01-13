@@ -463,6 +463,8 @@ service:
     - Water Resources and Economics
 
   professional:
+    - role: AERE Strategic Planning Committee
+      years: "2025"
     - role: JAERE Editorial Council
       years: "2024-Present"
     - role: AERE@AAEA Committee Member
