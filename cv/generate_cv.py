@@ -134,22 +134,22 @@ def generate_nonrefereed(pubs: list) -> str:
     """Generate non-refereed publications section."""
     if not pubs:
         return ""
-    
+
     lines = ['', '#subsection("Non-peer reviewed publications and commentaries")', '']
-    
+
     for pub in pubs:
         title = escape_typst(pub['title'])
         venue = escape_typst(pub.get('venue', ''))
         date = pub.get('date', '')
         coauthors = f" with {escape_typst(pub['coauthors'])}" if pub.get('coauthors') else ''
-        
+
         if venue:
-            lines.append(f'[{title}{coauthors}. _{venue}._ {date}]')
+            lines.append(f'{title}{coauthors}. _{venue}._ {date}')
         else:
-            lines.append(f'[{title}{coauthors}. {date}]')
+            lines.append(f'{title}{coauthors}. {date}')
         lines.append('#linebreak()')
-        lines.append('#v(0.2em)')
-    
+        lines.append('#v(0.1em)')
+
     return "\n".join(lines)
 
 
@@ -180,14 +180,14 @@ def generate_honors(honors: list) -> str:
     """Generate honors and awards section."""
     if not honors:
         return ""
-    
+
     lines = ['#section("Honors and Awards")', '']
-    
+
     for honor in honors:
-        lines.append(f'[{escape_typst(honor["title"])}, {honor["year"]}.]')
+        lines.append(f'{escape_typst(honor["title"])}, {honor["year"]}.')
         lines.append('#linebreak()')
-        lines.append('#v(0.2em)')
-    
+        lines.append('#v(0.1em)')
+
     return "\n".join(lines)
 
 
@@ -290,7 +290,7 @@ def generate_cv(yaml_path: str, output_path: str):
     if data.get('testimony'):
         sections.append('#section("Congressional Testimony")')
         for t in data['testimony']:
-            sections.append(f'[{escape_typst(t["committee"])}. {escape_typst(t["title"])}. {t["date"]}.]')
+            sections.append(f'{escape_typst(t["committee"])}. {escape_typst(t["title"])}. {t["date"]}.')
             sections.append('#linebreak()')
     
     sections.append(generate_grants(data['grants']))
