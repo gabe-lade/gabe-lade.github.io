@@ -143,6 +143,12 @@ National Ethanol Conference. February 2018.
 
 ## Publications and Commentaries (Non-Peer Reviewed) {#commentaries}
 
+**[Reaching and Improving Iowa's Private Wells.](https://www.iaenvironment.org/blog/iowa-environmental-voice/reaching-and-improving-iowa-private-wells)**
+Iowa Environmental Council Blog. November 2024.
+
+**[Millions of People Across the US Use Well Water, but Very Few Test It Often Enough to Make Sure It's Safe.](https://theconversation.com/millions-of-people-across-the-us-use-well-water-but-very-few-test-it-often-enough-to-make-sure-its-safe-236930)**
+The Conversation. October 2024.
+
 **[The Iowa Rural Drinking Water Survey: Water Quality Perceptions and Avoidance Behaviors Among Rural Iowa Households.](https://www.card.iastate.edu/publications/22-sr-118)**
 Lade, G., D. Keiser, J. Comito, J. Benning, and C. Kling.
 [[Press Release](https://www.extension.iastate.edu/news/rural-drinking-water-survey-shows-significant-nitrate-risk-many-iowans)]
