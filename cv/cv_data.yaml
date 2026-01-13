@@ -236,6 +236,13 @@ testimony:
     date: "July 25, 2018"
 
 grants:
+  - title: USDA National Institute of Food and Agriculture
+    project: "The Iowa Rural Drinking Water Initiative: Reducing Pollution Exposure And Increasing Participation In Well Water Quality Testing Programs"
+    role: co-Project Director
+    coauthors: Jacqueline Comito (co-PD), David Keiser, and Catherine DeLong
+    amount: 591010
+    year: "2026"
+
   - title: Macalester College Collaborative Summer Research Grant
     project: Rate of Return Regulations and Cost of the Clean Energy Transition
     role: Project Director
@@ -337,6 +344,8 @@ grants:
     year: "2010"
 
 honors:
+  - title: Excellence in Refereeing Award. Journal of the Association of Environmental and Resource Economists
+    year: "2026"
   - title: National Center for Sustainable Transportation (NCST) Outstanding Graduate Student of the Year
     year: "2015"
   - title: Honorable Mention, UC Davis Agricultural and Resource Economics Best Ph.D. Dissertation
