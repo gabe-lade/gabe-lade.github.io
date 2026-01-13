@@ -66,15 +66,15 @@ publications:
 
     - authors: A. Smith and G.E. Lade
       year: "2025"
-      title: "Biofuels: Past, Present, and Future"
+      title: "Biofuels: Past, Present, and Future (with Aaron Smith)"
       journal: Annual Review of Resource Economics
-      details: Forthcoming
+      details: "17: 105-125"
 
     - authors: Andarge, T., D. Ghanem, D. Keiser, and G.E. Lade
       year: "2025"
-      title: "Threshold-based Regulations and Reporting Behavior: Evidence from the Lead and Copper Rule"
+      title: "Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in US Drinking Water"
       journal: "American Economic Review: Insights"
-      details: Forthcoming
+      details: "7(3): 285-305"
 
     - authors: Chandra, R., G. Moschini, and G.E. Lade
       year: "2025"
@@ -168,10 +168,12 @@ publications:
       note: Energy Institute at Haas Working Paper 340
 
   work_in_progress:
-    - title: Rate of Return Regulations and Cost of the Clean Energy Transition
-      coauthors: Sariya Stowers* and Minh Nguyen*
-    - title: "Population Shocks and Drinking Water Quality: Evidence from China's Ascension to the World Trade Organization"
-    - title: "Drinking Water Infrastructure Investments, Economic Activity, and Health in Early 20th Century United States"
+    - title: Rate of Return Regulations and the Cost of the Clean Energy Transition
+      coauthors: S. Stowers, M. Nguyen, and Z. Zhao
+    - title: "Impacts of California's LCFS on U.S. Dairy Herds"
+      coauthors: J. Chen
+    - title: "Market Outcomes of Minimum Price Regulations: Evidence from California's Entry Into the Federal Milk Marketing Order"
+      coauthors: Z. Zhao
 
   nonrefereed:
     - title: "Reaching and improving Iowa's Private Wells"
@@ -352,10 +354,15 @@ honors:
     year: "2015"
 
 teaching:
+  - institution: The Ohio State University
+    courses:
+      - name: Seminal Readings in Applied Economics
+        years: "2025-Present"
+
   - institution: Macalester College
     courses:
       - name: Intermediate Microeconomics
-        years: "2019-Present"
+        years: "2019-2025"
       - name: Principles of Economics
         years: "2020, 2024"
       - name: Industrial Organization
@@ -395,6 +402,10 @@ advising:
     years: "2017-2019"
 
 conferences:
+  - year: "2026 (Scheduled)"
+    items: "Kenyon College (Edgerton Lectureship Series); Cornell University (Dyson); Penn State (EEEPI)"
+  - year: "2025"
+    items: "Ohio State University AEDE"
   - year: "2024"
     items: "Social Cost of Water Pollution Workshop, Reducing Lead Exposure Workshop (Columbia University)"
   - year: "2023"
@@ -452,6 +463,8 @@ service:
     - Water Resources and Economics
 
   professional:
+    - role: AERE Strategic Planning Committee
+      years: "2025"
     - role: JAERE Editorial Council
       years: "2024-Present"
     - role: AERE@AAEA Committee Member
@@ -469,10 +482,15 @@ service:
     - Environmental Protection Agency National Center for Environmental Economics Grants
     - University of Nebraska, Lincoln Grand Challenges Grant
 
+  department_osu:
+    - Academic Affairs Committee (2025-Present)
+    - EEDS Oversight Committee (2025-Present)
+    - Graduate Seminar Committee (2026)
+
   department_macalester:
     - Gateway Prize Reviewer (2020-2021)
     - Sustainability and EJ Advisory Committee (2021)
-    - Department Seminar Committee (2020-Present)
+    - Department Seminar Committee (2020-2025)
     - Textbook Solutions Committee (2022)
     - Secretary of the Faculty (2022-2023)
     - Strategic Planning and Analysis Committee (2024-2025)

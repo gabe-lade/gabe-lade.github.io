@@ -119,9 +119,9 @@ def generate_publications(pubs: dict) -> str:
             note = f'note: "{escape_typst(wp["note"])}",' if wp.get('note') else ''
             lines.append(f'#working-paper("{title}", {coauthors} {note})')
     
-    # Work in progress
+    # Select works in progress
     if pubs.get('work_in_progress'):
-        lines.extend(['', '#subsection("Work in progress")', ''])
+        lines.extend(['', '#subsection("Select works in progress")', ''])
         for wip in pubs['work_in_progress']:
             title = escape_typst(wip['title'])
             coauthors = f'coauthors: "{escape_typst(wip["coauthors"])}",' if wip.get('coauthors') else ''
@@ -134,22 +134,22 @@ def generate_nonrefereed(pubs: list) -> str:
     """Generate non-refereed publications section."""
     if not pubs:
         return ""
-    
+
     lines = ['', '#subsection("Non-peer reviewed publications and commentaries")', '']
-    
+
     for pub in pubs:
         title = escape_typst(pub['title'])
         venue = escape_typst(pub.get('venue', ''))
         date = pub.get('date', '')
         coauthors = f" with {escape_typst(pub['coauthors'])}" if pub.get('coauthors') else ''
-        
+
         if venue:
-            lines.append(f'[{title}{coauthors}. _{venue}._ {date}]')
+            lines.append(f'{title}{coauthors}. _{venue}._ {date}')
         else:
-            lines.append(f'[{title}{coauthors}. {date}]')
+            lines.append(f'{title}{coauthors}. {date}')
         lines.append('#linebreak()')
-        lines.append('#v(0.2em)')
-    
+        lines.append('#v(0.1em)')
+
     return "\n".join(lines)
 
 
@@ -180,14 +180,14 @@ def generate_honors(honors: list) -> str:
     """Generate honors and awards section."""
     if not honors:
         return ""
-    
+
     lines = ['#section("Honors and Awards")', '']
-    
+
     for honor in honors:
-        lines.append(f'[{escape_typst(honor["title"])}, {honor["year"]}.]')
+        lines.append(f'{escape_typst(honor["title"])}, {honor["year"]}.')
         lines.append('#linebreak()')
-        lines.append('#v(0.2em)')
-    
+        lines.append('#v(0.1em)')
+
     return "\n".join(lines)
 
 
@@ -259,9 +259,14 @@ def generate_service(service: dict) -> str:
         lines.append('#v(0.5em)')
     
     # Department service
-    for dept_key in ['department_macalester', 'department_isu']:
+    for dept_key in ['department_osu', 'department_macalester', 'department_isu']:
         if service.get(dept_key):
-            dept_name = "Macalester" if "macalester" in dept_key else "Iowa State"
+            if "osu" in dept_key:
+                dept_name = "Ohio State"
+            elif "macalester" in dept_key:
+                dept_name = "Macalester"
+            else:
+                dept_name = "Iowa State"
             items = ", ".join(service[dept_key])
             lines.append(f'*Department ({dept_name}):* {escape_typst(items)}')
             lines.append('')
@@ -290,7 +295,7 @@ def generate_cv(yaml_path: str, output_path: str):
     if data.get('testimony'):
         sections.append('#section("Congressional Testimony")')
         for t in data['testimony']:
-            sections.append(f'[{escape_typst(t["committee"])}. {escape_typst(t["title"])}. {t["date"]}.]')
+            sections.append(f'{escape_typst(t["committee"])}. {escape_typst(t["title"])}. {t["date"]}.')
             sections.append('#linebreak()')
     
     sections.append(generate_grants(data['grants']))
