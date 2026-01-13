@@ -119,9 +119,9 @@ def generate_publications(pubs: dict) -> str:
             note = f'note: "{escape_typst(wp["note"])}",' if wp.get('note') else ''
             lines.append(f'#working-paper("{title}", {coauthors} {note})')
     
-    # Work in progress
+    # Select works in progress
     if pubs.get('work_in_progress'):
-        lines.extend(['', '#subsection("Work in progress")', ''])
+        lines.extend(['', '#subsection("Select works in progress")', ''])
         for wip in pubs['work_in_progress']:
             title = escape_typst(wip['title'])
             coauthors = f'coauthors: "{escape_typst(wip["coauthors"])}",' if wip.get('coauthors') else ''
@@ -259,9 +259,14 @@ def generate_service(service: dict) -> str:
         lines.append('#v(0.5em)')
     
     # Department service
-    for dept_key in ['department_macalester', 'department_isu']:
+    for dept_key in ['department_osu', 'department_macalester', 'department_isu']:
         if service.get(dept_key):
-            dept_name = "Macalester" if "macalester" in dept_key else "Iowa State"
+            if "osu" in dept_key:
+                dept_name = "Ohio State"
+            elif "macalester" in dept_key:
+                dept_name = "Macalester"
+            else:
+                dept_name = "Iowa State"
             items = ", ".join(service[dept_key])
             lines.append(f'*Department ({dept_name}):* {escape_typst(items)}')
             lines.append('')
