@@ -33,34 +33,32 @@
   // Header
   align(center)[
     #text(size: 18pt, weight: "bold", smallcaps(name))
-  ]
-  
-  align(center)[
+    \
     #department \
     #institution \
     #address \
     Email: #link("mailto:" + email)[#email]
   ]
-  
+
   v(-0.2em)
   line(length: 100%, stroke: 0.5pt)
-  v(0.2em)
+  v(0.1em)
 
   body
 }
 
 // Section heading
 #let section(title) = {
-  v(0.5em)
+  v(0.3em)
   text(size: 13pt, weight: "bold", smallcaps(title))
-  v(0.2em)
+  v(0.1em)
 }
 
 // Subsection (e.g., "Refereed articles")
 #let subsection(title) = {
-  v(0.3em)
+  v(0.2em)
   text(weight: "bold", title)
-  v(0.15em)
+  v(0.1em)
 }
 
 // Position entry
@@ -79,7 +77,7 @@
     role.years
     linebreak()
   }
-  v(0.15em)
+  v(0.1em)
 }
 
 // Education entry
@@ -100,7 +98,7 @@
       linebreak()
     }
   }
-  v(0.15em)
+  v(0.1em)
 }
 
 // Working paper
@@ -109,7 +107,7 @@
   if coauthors != none [ (with #coauthors)]
   if note != none [. #note]
   linebreak()
-  v(0.15em)
+  v(0.1em)
 }
 
 // Grant entry
@@ -120,7 +118,7 @@
   if amount != none [. #amount]
   [. #year.]
   linebreak()
-  v(0.15em)
+  v(0.1em)
 }
 
 // Teaching entry
@@ -134,7 +132,7 @@
     course.years
     linebreak()
   }
-  v(0.15em)
+  v(0.1em)
 }
 
 // Advising entry
@@ -147,5 +145,5 @@
 #let conf-year(year, items) = {
   [#year: #items]
   linebreak()
-  v(0.1em)
+  v(0.05em)
 }
