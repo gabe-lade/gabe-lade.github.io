@@ -34,16 +34,20 @@ JAERE Editorial Council
 <br>
 For information on the C. William Swank Program in Rural-Urban Policy, visit [this site.](https://aede.osu.edu/programs/c-william-swank-program-rural-urban-policy)
 
-<br><br><br>
+<br>
 
-## Working papers
+**Jump to:** [Working Papers](#working-papers) | [Published Papers](#published-papers) | [Teaching](#teaching) | [Testimony](#testimony) | [Presentations](#presentations) | [Commentaries](#commentaries)
+
+<br><br>
+
+## Working papers {#working-papers}
 
 **[Forecasting Credit Supply Demand Balance for the Low-Carbon Fuel Standard Program.](https://haas.berkeley.edu/wp-content/uploads/WP340.pdf)**
 Bushnell, J., G. Lade, A. Smith, J. Witcover, and W. Xiao. Energy Institute at Haas Working Paper 340.
 
 <br>
 
-## Published Papers
+## Published Papers {#published-papers}
 
 **[Quantifying Threshold Manipulation in the Presence of Rounding: The Case of Lead Monitoring in U.S. Drinking Water.](https://www.aeaweb.org/articles?id=10.1257/aeri.20240258)**
 Andarge, T. D. Ghanem, D. Keiser, and G. Lade. 2025.
@@ -108,8 +112,73 @@ G. Lade and C.-Y.C. Lin Lawell. 2015
 
 <br>
 
-## Teaching
+## Teaching {#teaching}
 
 [ECON 316: Intermediate Microeconomics](https://www.dropbox.com/scl/fi/xvu10ajgrifn8bhoomlnh/econ361-syllabus-s23.pdf?rlkey=brt0ouqf8xhl0lrxvrmcvl0ok&e=1&dl=0) (Macalester)  
 [ECON 405: Industrial Organization](https://www.dropbox.com/scl/fi/xnfommj04c2f31aqqtzu7/ECON405-Syllabus-S23.pdf?rlkey=mn533p6qx4lsrgik616fcc7nw&e=1&dl=0) (Macalester)  
 [ECON 642: Agricultural Economics II](https://www.dropbox.com/scl/fi/se9tlk7erjeni2drwizou/ECON-642-Syllabus-Spring-2019.pdf?rlkey=fns520q6lunbs9vk8ngvhnqdx&e=1&dl=0) (Iowa State)
+
+<br>
+
+## Testimony {#testimony}
+
+**[Background on Renewable Identification Numbers under the Renewable Fuel Standard.](https://rawcdn.githack.com/gabe-lade/MyFiles/10e071d3dcf0876238b500b7626337313aafda08/card-18pb24-2018.pdf)**
+U.S. House Energy and Commerce Subcommittee on Environment. July 25, 2018.
+[[Video](https://www.youtube.com/watch?v=bH3Z9AUA618)]
+
+<br>
+
+## Presentations {#presentations}
+
+**[The Economics of RINs and U.S. Ethanol Demand.](https://rawcdn.githack.com/gabe-lade/MyFiles/2c9e5b7af07bcf8691886d13bbc4b0cb9d2db413/rins-and-ethanol-demand.pdf)**
+11th Annual Biofuels Science and Sustainability Tour. Fall 2019.
+
+**[The Simple Economics of RINs and RFS Reform.](https://rawcdn.githack.com/gabe-lade/MyFiles/6a9417558ebd63684f20bea9b77590563a6b5c17/lade_rins_and_rfs_reform.pdf)**
+10th Annual Biofuels Science and Sustainability Tour. Fall 2018.
+
+**[RINs: An Economic Perspective.](https://rawcdn.githack.com/gabe-lade/MyFiles/6a9417558ebd63684f20bea9b77590563a6b5c17/lade_rin_basics.pdf)**
+National Ethanol Conference. February 2018.
+
+<br>
+
+## Publications and Commentaries (Non-Peer Reviewed) {#commentaries}
+
+**[The Iowa Rural Drinking Water Survey: Water Quality Perceptions and Avoidance Behaviors Among Rural Iowa Households.](https://www.card.iastate.edu/publications/22-sr-118)**
+Lade, G., D. Keiser, J. Comito, J. Benning, and C. Kling.
+[[Press Release](https://www.extension.iastate.edu/news/rural-drinking-water-survey-shows-significant-nitrate-risk-many-iowans)]
+
+**[The Minnesota Clean Car Rule Isn't Nearly Enough.](https://www.minnpost.com/community-voices/2021/08/the-minnesota-clean-cars-rule-isnt-nearly-enough/)**
+Lade, G., and S. West. MinnPost. August 2021.
+
+**[Ozone Pollution in U.S. National Parks Is Nearly the Same as in Large Cities.](https://theconversation.com/ozone-pollution-in-us-national-parks-is-nearly-the-same-as-in-large-cities-100148)**
+Keiser, D., G. Lade, and I. Rudik. The Conversation. July 2018.
+
+**[The Costs and Benefits of Nutrient Reduction Programs.](https://rawcdn.githack.com/gabe-lade/MyFiles/39e262224ae87e09f0c5c47d09c2147e1365c72b/card-apr-fall-2018.pdf)**
+Tang, C., Y.H. Shr, G. Lade, D. Keiser, and C. Kling. CARD Agricultural Policy Review. Fall 2018.
+
+**[Environmental Regulation of Hog Feeding Operations.](https://rawcdn.githack.com/gabe-lade/MyFiles/39e262224ae87e09f0c5c47d09c2147e1365c72b/card-apr-spring-2018.pdf)**
+Chen, C.T., G. Lade. CARD Agricultural Policy Review. Spring 2018.
+
+**[E15 and E85 Demand Under RIN Price Caps and an RVP Waiver.](https://rawcdn.githack.com/gabe-lade/MyFiles/902d2e416046f34dda86a2c13993076bc58eb715/card-18pb21-2018.pdf)**
+Lade, G., S. Pouliot, and B. Babcock. CARD Policy Brief. 18-PB 21. 2018.
+
+**[Economic Benefits of Nitrogen Reductions in Iowa.](https://rawcdn.githack.com/gabe-lade/MyFiles/f99db06fd9a1697fa640f9fa1716bcc979648fb9/card-water-quality-report.pdf)**
+Tang, C., G. Lade, D. Keiser, C. Kling, Y. Ji, and Y.H. Shr. CARD Report. February 2018.
+
+**[Efficient Environmental Regulation in the Unconventional Oil Industry.](https://rawcdn.githack.com/gabe-lade/MyFiles/39c71642fdb96dae484ae11a9f255631f3135603/card-apr-fall-2017.pdf)**
+Lade, G., and I. Rudik. CARD Agricultural Policy Review. Fall 2017.
+
+**[Impact on Merchant Refiners and Blenders from Changing the RFS Point of Obligation.](https://rawcdn.githack.com/gabe-lade/MyFiles/35e2a3600e9859397e13babdb91bdedd5cb65a1c/card-16pb20-2016.pdf)**
+Babcock, B., G. Lade, and S. Pouliot. CARD Policy Brief. 16-PB 20. 2016.
+
+**[Fuel Price Impacts of the Renewable Fuel Standard.](https://rawcdn.githack.com/gabe-lade/MyFiles/027eee99f54a9271f1dd62d3ed884d3bc614921a/card-apr-fall-2016.pdf)**
+Lade, G., and J. Bushnell. CARD Agricultural Policy Review. Fall 2016.
+
+**[Ex-Post Costs and RIN Prices Under the Renewable Fuel Standard.](https://ideas.repec.org/p/rff/dpaper/dp-15-22.html)**
+Lade, G., C.-Y.C. Lin Lawell, and A. Smith. Resources for the Future Discussion Paper. 15-22. 2015.
+
+**[Controlling Compliance Costs for California's LCFS with a Price Ceiling.](http://clinlawell.dyson.cornell.edu/LCFS_cost_containment_policy_brief.pdf)**
+Lade, G., and C.-Y.C. Lin. UC Davis Policy Institute for Energy, Environment and the Economy Policy Brief. 2014.
+
+**[A Report on the Economics of California's Low Carbon Fuel Standard and Cost Containment Mechanisms.](http://clinlawell.dyson.cornell.edu/California_LCFS.pdf)**
+Lade, G., and C.-Y.C. Lin. Institute of Transportation Studies, University of California, Davis, Research Report. UCD-ITS-RR-13-23. 2013.
