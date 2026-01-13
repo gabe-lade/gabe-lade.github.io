@@ -36,7 +36,7 @@ For information on the C. William Swank Program in Rural-Urban Policy, visit [th
 
 <br>
 
-**Jump to:** [Working Papers](#working-papers) | [Published Papers](#published-papers) | [Teaching](#teaching) | [Testimony](#testimony) | [Presentations](#presentations) | [Commentaries](#commentaries)
+[Working Papers](#working-papers) | [Published Papers](#published-papers) | [Teaching](#teaching) | [Testimony](#testimony) | [Presentations](#presentations) | [Commentaries](#commentaries)
 
 <br><br>
 
