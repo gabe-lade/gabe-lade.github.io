@@ -34,10 +34,6 @@ JAERE Editorial Council
 <br>
 For information on the C. William Swank Program in Rural-Urban Policy, visit [this site.](https://aede.osu.edu/programs/c-william-swank-program-rural-urban-policy)
 
-<br>
-
-[Working Papers](#working-papers) | [Published Papers](#published-papers) | [Teaching](#teaching) | [Testimony](#testimony) | [Presentations](#presentations) | [Commentaries](#commentaries)
-
 <br><br>
 
 ## Working papers {#working-papers}
