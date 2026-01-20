@@ -137,7 +137,7 @@ National Ethanol Conference. February 2018.
 
 <br>
 
-## Publications and Commentaries (Non-Peer Reviewed) {#commentaries}
+## Other Writings (Non-Peer Reviewed) {#commentaries}
 
 **[Reaching and Improving Iowa's Private Wells.](https://www.iaenvironment.org/blog/iowa-environmental-voice/reaching-and-improving-iowa-private-wells)**
 Iowa Environmental Council Blog. November 2024.
