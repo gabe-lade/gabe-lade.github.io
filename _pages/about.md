@@ -126,6 +126,9 @@ U.S. House Energy and Commerce Subcommittee on Environment. July 25, 2018.
 
 ## Presentations {#presentations}
 
+**[Ohio's Historic Property Tax Reforms: An Economist's Perspective.](/MyFiles/property-tax-reform-202602.pdf)**
+Farm Office Live! webinar. February 2026.
+
 **[The Economics of RINs and U.S. Ethanol Demand.](https://rawcdn.githack.com/gabe-lade/MyFiles/2c9e5b7af07bcf8691886d13bbc4b0cb9d2db413/rins-and-ethanol-demand.pdf)**
 11th Annual Biofuels Science and Sustainability Tour. Fall 2019.
 
