@@ -32,7 +32,7 @@ JAERE Editorial Council
 ## [CV](/cv/Lade_CV.pdf)
 
 <br>
-For information on the C. William Swank Program in Rural-Urban Policy, visit [this site.](https://aede.osu.edu/programs/c-william-swank-program-rural-urban-policy)
+For information on the C. William Swank Program in Rural-Urban Policy, visit [this site.](https://gabe-lade.github.io/swank-program/)
 
 <br><br>
 
