@@ -62,17 +62,17 @@ U.S. EPA Science Advisory Board, Contaminant Candidate List 6 (CCL6) Review Subc
 #subsection("Refereed articles")
 
 #pub(
-  "Chen, C-T., G.E. Lade, J. Crespi, and D. Keiser",
+  "Chen, C.-T., G.E. Lade, J. Crespi, and D. Keiser",
   "2025",
-  "Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry",
+  "Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry",
   "American Journal of Agricultural Economics",
-  details: "Forthcoming",
+  details: "108(3): 829-855",
   
 )
 #pub(
-  "A. Smith and G.E. Lade",
+  "Lade, G.E., and A. Smith",
   "2025",
-  "Biofuels: Past, Present, and Future (with Aaron Smith)",
+  "Biofuels: Past, Present, and Future",
   "Annual Review of Resource Economics",
   details: "17: 105-125",
   
@@ -96,7 +96,7 @@ U.S. EPA Science Advisory Board, Contaminant Candidate List 6 (CCL6) Review Subc
 #pub(
   "Lade, G.E., J. Comito, J. Benning, C. Kling, and D. Keiser",
   "2024",
-  "Rural Drinking Water Habits, Information Provision, And Pollution Exposure",
+  "Improving Private Well Testing Programs: Experimental Evidence from Iowa",
   "Environmental Science and Technology",
   details: "58(33): 14596-14607",
   
@@ -128,7 +128,7 @@ U.S. EPA Science Advisory Board, Contaminant Candidate List 6 (CCL6) Review Subc
 #pub(
   "Jessoe, K., G.E. Lade, F. Loge, and E. Spang",
   "2021",
-  "Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use",
+  "Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use",
   "Journal of the Association of Environmental and Resource Economists",
   details: "8(2): pp. 315-346",
   
@@ -142,7 +142,7 @@ U.S. EPA Science Advisory Board, Contaminant Candidate List 6 (CCL6) Review Subc
   
 )
 #pub(
-  "Lade, G.E., I Rudik",
+  "Lade, G.E., and I. Rudik",
   "2020",
   "Costs of Inefficient Regulation: Evidence from the Bakken",
   "Journal of Environmental Economics and Management",
@@ -211,16 +211,16 @@ U.S. EPA Science Advisory Board, Contaminant Candidate List 6 (CCL6) Review Subc
 
 #subsection("Non-peer reviewed publications and commentaries")
 
-Reaching and improving Iowa's Private Wells. _Iowa Environmental Council Blog._ 11/2024
+Reaching and Improving Iowa's Private Wells. _Iowa Environmental Council Blog._ 11/2024
 #linebreak()
 #v(0.1em)
 Millions of people across the US use well water, but very few test it often enough to make sure it's safe. _The Conversation._ 10/2024
 #linebreak()
 #v(0.1em)
-The Iowa Rural Drinking Water Survey: Water Quality Perceptions and Avoidance Behaviors Among Rural Iowa Households with Jackie Comito, Jamie Benning, David Keiser, and Catherine Kling. 10/2022
+The Iowa Rural Drinking Water Survey: Water Quality Perceptions and Avoidance Behaviors Among Rural Iowa Households with Jackie Comito, Jamie Benning, David Keiser, and Catherine Kling. _CARD, Iowa State University._ 10/2022
 #linebreak()
 #v(0.1em)
-The Minnesota Clean Car Rule Isn't Nearly Enough with Sarah West. _MinnPost Op-Ed._ 8/18/2021
+The Minnesota Clean Cars Rule Isn't Nearly Enough with Sarah West. _MinnPost Op-Ed._ 8/18/2021
 #linebreak()
 #v(0.1em)
 E15 Demand and Small Refinery Waivers: A Battle over Long-Run Market Share. _CARD Agricultural Policy Review._ Fall 2019
@@ -235,7 +235,7 @@ Environmental Regulation of Hog Feeding Operations with Chen-Ti Chen. _CARD Agri
 E15 and E85 Demand Under RIN Price Caps and an RVP Waiver with Bruce Babcock and Sebastien Pouliot. _CARD Policy Brief 18-PB 21._ 2018
 #linebreak()
 #v(0.1em)
-Economic Benefits of Nitrogen Reductions in Iowa with Chuan Tang, David Keiser, Catherine Kling, Yongjie Ji, and Yau-Huo Shr. February 2018
+Economic Benefits of Nitrogen Reductions in Iowa with Chuan Tang, David Keiser, Catherine Kling, Yongjie Ji, and Yau-Huo Shr. _CARD Report._ February 2018
 #linebreak()
 #v(0.1em)
 Efficient Environmental Regulation in the Unconventional Oil Industry with Ivan Rudik. _CARD Agricultural Policy Review._ Fall 2017
