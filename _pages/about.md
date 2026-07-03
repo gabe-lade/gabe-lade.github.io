@@ -26,8 +26,6 @@ The Ohio State University
 JAERE Editorial Council  
 U.S. EPA Science Advisory Board &mdash; Economic Analysis Committee and Contaminant Candidate List 6 (CCL6) Review Subcommittee
 
-I am an applied economist specializing in the economic and policy connections between rural and urban communities. My research examines energy, environmental, and land-use policy with a focus on policies affecting transportation fuel markets, agriculture, and the rural-urban interface.
-
 <div class="swank-callout">
   <a href="https://gabe-lade.github.io/swank-program/">
     <span class="k">C. William Swank Program in Rural-Urban Policy &rarr;</span>
