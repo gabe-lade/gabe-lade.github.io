@@ -23,18 +23,19 @@ Department of Agricultural, Environmental, and Development Economics
 College of Food, Agricultural, and Environmental Sciences  
 The Ohio State University
 
-JAERE Editorial Council
+JAERE Editorial Council  
+U.S. EPA Science Advisory Board &mdash; Economic Analysis Committee and Contaminant Candidate List 6 (CCL6) Review Subcommittee
 
 I am an applied economist specializing in the economic and policy connections between rural and urban communities. My research examines energy, environmental, and land-use policy with a focus on policies affecting transportation fuel markets, agriculture, and the rural-urban interface.
-
-## [CV](/cv/Lade_CV.pdf)
 
 <div class="swank-callout">
   <a href="https://gabe-lade.github.io/swank-program/">
     <span class="k">C. William Swank Program in Rural-Urban Policy &rarr;</span>
-    <span class="d">Research, interactive data tools, and outreach on Ohio's rural-urban policy issues</span>
+    <span class="d">Research, interactive data tools, and outreach on Ohio's rural-urban policy issues &mdash; newsletter essays, policy facts, and interactive maps</span>
   </a>
 </div>
+
+## [CV](/cv/Lade_CV.pdf)
 
 ## Working papers {#working-papers}
 
@@ -110,7 +111,7 @@ G. Lade and C.-Y.C. Lin Lawell. 2015.
 
 ## Teaching {#teaching}
 
-[ECON 316: Intermediate Microeconomics](https://www.dropbox.com/scl/fi/xvu10ajgrifn8bhoomlnh/econ361-syllabus-s23.pdf?rlkey=brt0ouqf8xhl0lrxvrmcvl0ok&e=1&dl=0) (Macalester)  
+[ECON 361: Intermediate Microeconomics](https://www.dropbox.com/scl/fi/xvu10ajgrifn8bhoomlnh/econ361-syllabus-s23.pdf?rlkey=brt0ouqf8xhl0lrxvrmcvl0ok&e=1&dl=0) (Macalester)  
 [ECON 405: Industrial Organization](https://www.dropbox.com/scl/fi/xnfommj04c2f31aqqtzu7/ECON405-Syllabus-S23.pdf?rlkey=mn533p6qx4lsrgik616fcc7nw&e=1&dl=0) (Macalester)  
 [ECON 642: Agricultural Economics II](https://www.dropbox.com/scl/fi/se9tlk7erjeni2drwizou/ECON-642-Syllabus-Spring-2019.pdf?rlkey=fns520q6lunbs9vk8ngvhnqdx&e=1&dl=0) (Iowa State)
 
@@ -141,6 +142,8 @@ National Ethanol Conference. February 2018.
 <br>
 
 ## Other Writings (Non-Peer Reviewed) {#commentaries}
+
+For current policy writing &mdash; newsletter essays, Policy Facts, and op-eds on Ohio rural-urban issues &mdash; see the [Swank Program outreach page](https://gabe-lade.github.io/swank-program/outreach/).
 
 **[Reaching and Improving Iowa's Private Wells.](https://www.iaenvironment.org/blog/iowa-environmental-voice/reaching-and-improving-iowa-private-wells)**
 Iowa Environmental Council Blog. November 2024.

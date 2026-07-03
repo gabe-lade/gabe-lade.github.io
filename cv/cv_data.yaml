@@ -463,6 +463,10 @@ service:
     - Water Resources and Economics
 
   professional:
+    - role: "U.S. EPA Science Advisory Board, Economic Analysis Committee"
+      years: "2026-Present"
+    - role: "U.S. EPA Science Advisory Board, Contaminant Candidate List 6 (CCL6) Review Subcommittee"
+      years: "2026-Present"
     - role: AERE Strategic Planning Committee
       years: "2025"
     - role: JAERE Editorial Council
