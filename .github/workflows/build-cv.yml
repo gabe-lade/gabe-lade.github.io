@@ -9,6 +9,10 @@ on:
       - '.github/workflows/build-cv.yml'
   workflow_dispatch:  # Allow manual trigger
 
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -37,9 +41,23 @@ jobs:
           typst compile Lade_CV.typ Lade_CV.pdf
 
       - name: Commit and push PDF
+        id: commit
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add cv/Lade_CV.pdf cv/Lade_CV.typ
-          git diff --staged --quiet || git commit -m "Auto-build CV PDF [skip ci]"
-          git push
+          if git diff --staged --quiet; then
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Auto-build CV PDF [skip ci]"
+            git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Pushes made with GITHUB_TOKEN (and [skip ci]) never trigger deploy.yml,
+      # so the live site would keep serving the old PDF. Dispatch it explicitly.
+      - name: Trigger site deploy
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main
