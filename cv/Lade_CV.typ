@@ -42,6 +42,15 @@
   ((title: "Research Economist", years: "2016-2017"),)
 )
 
+#section("Other Professional Appointments")
+
+U.S. EPA Science Advisory Board, Economic Analysis Committee #h(1fr) 2026-Present
+#linebreak()
+#v(0.1em)
+U.S. EPA Science Advisory Board, Contaminant Candidate List 6 (CCL6) Review Subcommittee #h(1fr) 2026-Present
+#linebreak()
+#v(0.1em)
+
 #section("Education")
 
 #education-entry("Ph.D.", "Agricultural and Resource Economics", "University of California, Davis", "2015")
@@ -442,7 +451,7 @@ Honorable Mention, UC Davis Agricultural and Resource Economics Best Ph.D. Disse
 *Referee:* American Economic Journal: Economic Policy, American Journal of Agricultural Economics, American Water Works Water Science, Climatic Change, Economics of Energy and Environmental Policy, Energy Economics, Energy Policy, The Energy Journal, Environmental Science and Technology, Environmental and Resource Economics, European Economic Review, Food Policy, International Economic Review, International Journal of Industrial Organization, Journal of Agricultural and Resource Economics, Journal of the Association of Environmental and Resource Economists, Journal of Economic Literature, Journal of Environmental Economics and Management, Journal of Public Economics, Land Economics, Land Use Policy, Proceedings of the National Academy of Sciences, Resource and Energy Economics, Review of Environmental Economics and Policy, Science, Water Resources and Economics
 
 #v(0.5em)
-*Professional:* U.S. EPA Science Advisory Board, Economic Analysis Committee (2026-Present), U.S. EPA Science Advisory Board, Contaminant Candidate List 6 (CCL6) Review Subcommittee (2026-Present), AERE Strategic Planning Committee (2025), JAERE Editorial Council (2024-Present), AERE\@AAEA Committee Member (2022-2024), AERE Scholars Mentor (2024-2025), AMIE Mentor (2023-2024), AERE/AAEA Fall Virtual Workshop Organizer (2024)
+*Professional:* AERE Strategic Planning Committee (2025), JAERE Editorial Council (2024-Present), AERE\@AAEA Committee Member (2022-2024), AERE Scholars Mentor (2024-2025), AMIE Mentor (2023-2024), AERE/AAEA Fall Virtual Workshop Organizer (2024)
 
 #v(0.5em)
 *Grant Review Panels:* National Center for Sustainable Transportation at UC Davis, Environmental Protection Agency Science to Achieve Results Reviewer, Environmental Protection Agency National Center for Environmental Economics Grants, University of Nebraska, Lincoln Grand Challenges Grant
