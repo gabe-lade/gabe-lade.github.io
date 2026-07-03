@@ -65,7 +65,7 @@ education:
 publications:
   refereed:
     - authors: Chen, C.-T., G.E. Lade, J. Crespi, and D. Keiser
-      year: "2025"
+      year: "2026"
       title: "Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry"
       journal: American Journal of Agricultural Economics
       details: "108(3): 829-855"
@@ -199,6 +199,10 @@ publications:
     - title: "E15 Demand and Small Refinery Waivers: A Battle over Long-Run Market Share"
       venue: CARD Agricultural Policy Review
       date: "Fall 2019"
+    - title: "The Costs and Benefits of Nutrient Reduction Programs"
+      coauthors: Chuan Tang, Yau-Huo Shr, David Keiser, and Catherine Kling
+      venue: CARD Agricultural Policy Review
+      date: "Fall 2018"
     - title: "Ozone Pollution in U.S. National Parks is Nearly the Same as in Large Cities"
       coauthors: David Keiser and Ivan Rudik
       venue: The Conversation
