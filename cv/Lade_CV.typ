@@ -63,7 +63,7 @@ U.S. EPA Science Advisory Board, Contaminant Candidate List 6 (CCL6) Review Subc
 
 #pub(
   "Chen, C.-T., G.E. Lade, J. Crespi, and D. Keiser",
-  "2025",
+  "2026",
   "Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry",
   "American Journal of Agricultural Economics",
   details: "108(3): 829-855",
@@ -224,6 +224,9 @@ The Minnesota Clean Cars Rule Isn't Nearly Enough with Sarah West. _MinnPost Op-
 #linebreak()
 #v(0.1em)
 E15 Demand and Small Refinery Waivers: A Battle over Long-Run Market Share. _CARD Agricultural Policy Review._ Fall 2019
+#linebreak()
+#v(0.1em)
+The Costs and Benefits of Nutrient Reduction Programs with Chuan Tang, Yau-Huo Shr, David Keiser, and Catherine Kling. _CARD Agricultural Policy Review._ Fall 2018
 #linebreak()
 #v(0.1em)
 Ozone Pollution in U.S. National Parks is Nearly the Same as in Large Cities with David Keiser and Ivan Rudik. _The Conversation._ July 2018
