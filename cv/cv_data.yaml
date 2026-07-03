@@ -64,15 +64,15 @@ education:
 
 publications:
   refereed:
-    - authors: Chen, C-T., G.E. Lade, J. Crespi, and D. Keiser
+    - authors: Chen, C.-T., G.E. Lade, J. Crespi, and D. Keiser
       year: "2025"
-      title: "Size-Based Regulations and Environmental Quality: Evidence from the U.S. Livestock Industry"
+      title: "Size-Based Regulation and Water Quality: Evidence from the Iowa Hog Industry"
       journal: American Journal of Agricultural Economics
-      details: Forthcoming
+      details: "108(3): 829-855"
 
-    - authors: A. Smith and G.E. Lade
+    - authors: Lade, G.E., and A. Smith
       year: "2025"
-      title: "Biofuels: Past, Present, and Future (with Aaron Smith)"
+      title: "Biofuels: Past, Present, and Future"
       journal: Annual Review of Resource Economics
       details: "17: 105-125"
 
@@ -90,7 +90,7 @@ publications:
 
     - authors: Lade, G.E., J. Comito, J. Benning, C. Kling, and D. Keiser
       year: "2024"
-      title: Rural Drinking Water Habits, Information Provision, And Pollution Exposure
+      title: "Improving Private Well Testing Programs: Experimental Evidence from Iowa"
       journal: Environmental Science and Technology
       details: "58(33): 14596-14607"
 
@@ -114,7 +114,7 @@ publications:
 
     - authors: Jessoe, K., G.E. Lade, F. Loge, and E. Spang
       year: "2021"
-      title: "Conservation Spillovers and Behavioral Interventions: Experimental Evidence from Water and Energy Use"
+      title: "Spillovers from Behavioral Interventions: Experimental Evidence from Water and Energy Use"
       journal: Journal of the Association of Environmental and Resource Economists
       details: "8(2): pp. 315-346"
 
@@ -124,7 +124,7 @@ publications:
       journal: Journal of the Association of Environmental and Resource Economists
       details: "8(2): pp. 347-374"
 
-    - authors: Lade, G.E., I Rudik
+    - authors: Lade, G.E., and I. Rudik
       year: "2020"
       title: "Costs of Inefficient Regulation: Evidence from the Bakken"
       journal: Journal of Environmental Economics and Management
@@ -182,7 +182,7 @@ publications:
       coauthors: Z. Zhao
 
   nonrefereed:
-    - title: "Reaching and improving Iowa's Private Wells"
+    - title: "Reaching and Improving Iowa's Private Wells"
       venue: Iowa Environmental Council Blog
       date: "11/2024"
     - title: "Millions of people across the US use well water, but very few test it often enough to make sure it's safe"
@@ -190,8 +190,9 @@ publications:
       date: "10/2024"
     - title: "The Iowa Rural Drinking Water Survey: Water Quality Perceptions and Avoidance Behaviors Among Rural Iowa Households"
       coauthors: Jackie Comito, Jamie Benning, David Keiser, and Catherine Kling
+      venue: CARD, Iowa State University
       date: "10/2022"
-    - title: "The Minnesota Clean Car Rule Isn't Nearly Enough"
+    - title: "The Minnesota Clean Cars Rule Isn't Nearly Enough"
       coauthors: Sarah West
       venue: MinnPost Op-Ed
       date: "8/18/2021"
@@ -212,6 +213,7 @@ publications:
       date: "2018"
     - title: "Economic Benefits of Nitrogen Reductions in Iowa"
       coauthors: Chuan Tang, David Keiser, Catherine Kling, Yongjie Ji, and Yau-Huo Shr
+      venue: CARD Report
       date: "February 2018"
     - title: "Efficient Environmental Regulation in the Unconventional Oil Industry"
       coauthors: Ivan Rudik

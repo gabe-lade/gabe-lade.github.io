@@ -16,6 +16,7 @@ def escape_typst(text: str) -> str:
     # Typst special chars need escaping with backslash
     # Order matters: escape backslash first to avoid double-escaping
     text = text.replace('\\', '\\\\')  # Must be first
+    text = text.replace('"', '\\"')
     text = text.replace('#', '\\#')
     text = text.replace('*', '\\*')
     text = text.replace('_', '\\_')
