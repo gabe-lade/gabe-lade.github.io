@@ -67,6 +67,16 @@ def generate_positions(positions: list) -> str:
     return "\n".join(lines)
 
 
+def generate_other_appointments(appointments: list) -> str:
+    """Generate Other Professional Appointments section."""
+    lines = ['#section("Other Professional Appointments")', '']
+    for appt in appointments:
+        lines.append(f'{escape_typst(appt["role"])} #h(1fr) {escape_typst(appt["years"])}')
+        lines.append('#linebreak()')
+        lines.append('#v(0.1em)')
+    return "\n".join(lines)
+
+
 def generate_education(education: list) -> str:
     """Generate the education section."""
     lines = ['#section("Education")', '']
@@ -283,6 +293,12 @@ def generate_cv(yaml_path: str, output_path: str):
     sections = [
         generate_header(data),
         generate_positions(data['positions']),
+    ]
+
+    if data.get('other_appointments'):
+        sections.append(generate_other_appointments(data['other_appointments']))
+
+    sections += [
         generate_education(data['education']),
         generate_publications(data['publications']),
     ]
